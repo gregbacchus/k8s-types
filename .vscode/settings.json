@@ -1,0 +1,11 @@
+{
+  "eslint.enable": false,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "tslint.autoFixOnSave": true,
+  "cSpell.words": [
+    "Sysctl",
+    "sysctls"
+  ]
+}
